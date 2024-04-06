@@ -1,0 +1,16 @@
+.flights .viewOrderSchedule {
+  display: flex;
+  margin-left: auto;
+}
+.flights-table-container {
+  margin: 0 0 1em;
+}
+.flights-table-container table {
+  margin: 1em 0;
+}
+.flights-table-container table thead tr th:last-child {
+  float: right;
+}
+.flights-table-container table tbody tr td:last-child {
+  float: right;
+}

@@ -1,0 +1,7 @@
+.orders .viewFlightSchedule {
+  display: flex;
+  margin-left: auto;
+}
+.orders table {
+  margin: 1em 0;
+}

@@ -1,0 +1,21 @@
+footer {
+  background: #292a99;
+  color: #fff;
+  display: flex;
+}
+footer .footer-container {
+  align-items: center;
+  flex-direction: revert;
+  display: flex;
+  font-size: 0.75rem;
+  margin: 0 auto;
+  padding: 1em;
+  width: 80%;
+}
+@media only screen and (max-width: 1024px) {
+  footer .footer-container {
+    margin: unset;
+    width: 100%;
+  }
+}
+
